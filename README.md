@@ -4,7 +4,9 @@ Fast Food caloric content
 Demo: https://notebooks.gesis.org/binder/jupyter/user/zachpinto-fast-food-nutrition-hc86o2h7/doc/tree/notebooks/02_report.ipynb
 
 ## Introduction
-This dashboard presents a comprehensive analysis of nutritional information from various fast food restaurants. The analysis encompasses data scraping, data cleaning, enrichment using the OpenAI API, and exploratory data analysis (EDA) to provide insights into the calorie distribution of main dishes across different restaurants.
+This repo presents a very simple data analysis of caloric information of several fast food restaurants located in the Unites States. I was curious to see how various chains compared in terms of caloric distribution of their main items. 
+
+The entire process encompasses data scraping, data cleaning, augmentation using the OpenAI API, and exploratory data analysis to provide a simple box and whisker plot to show the caloric distribution of main items across these fast food restaurants.
 
 ## Data 
 The data was scraped from **fastfoodnutrition.org**, a website that collects nutritional data from dozens of popular fast food restaurants in the US.
