@@ -17,7 +17,28 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/src/data/applebees_menu_items.csv">
+        <entry key="/data/processed/classifications.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed/final.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed/items.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed/items_with_class.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
