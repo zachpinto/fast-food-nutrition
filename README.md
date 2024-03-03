@@ -1,4 +1,4 @@
-Fast rood caloric content 
+Fast Food caloric content 
 ==============================
 
 Demo: https://notebooks.gesis.org/binder/jupyter/user/zachpinto-fast-food-nutrition-hc86o2h7/doc/tree/notebooks/02_report.ipynb
