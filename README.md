@@ -1,7 +1,7 @@
 Fast Food caloric content 
 ==============================
 
-Demo: https://notebooks.gesis.org/binder/jupyter/user/zachpinto-fast-food-nutrition-hc86o2h7/doc/tree/notebooks/02_report.ipynb
+Demo: [https://notebooks.gesis.org/binder/jupyter/user/zachpinto-fast-food-nutrition-hc86o2h7/doc/tree/notebooks/02_report.ipynb](https://notebooks.gesis.org/binder/jupyter/user/zachpinto-fast-food-nutrition-lwgy6rfp/doc/tree/notebooks)
 
 ## Introduction
 This repo presents a very simple data analysis of caloric information of several fast food restaurants located in the Unites States. I was curious to see how various chains compared in terms of caloric distribution of their main items. 
